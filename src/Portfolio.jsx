@@ -331,7 +331,7 @@ export default function Portfolio() {
           <div className="about-title">
             <span className="eyebrow section-index">02 — ABOUT ME</span>
             <div className="about-photo-wrap">
-              <img src="/daniel.jfif" alt={PROFILE.name} className="about-photo" />
+              <img src="/profile.jpg" alt={PROFILE.name} className="about-photo" />
             </div>
           </div>
           <div className="about-copy">
